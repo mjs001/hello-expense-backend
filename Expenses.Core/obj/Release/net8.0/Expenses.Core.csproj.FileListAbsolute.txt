@@ -1,0 +1,15 @@
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.Core\bin\Release\net8.0\Expenses.Core.deps.json
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.Core\bin\Release\net8.0\Expenses.Core.dll
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.Core\bin\Release\net8.0\Expenses.Core.pdb
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.Core\bin\Release\net8.0\Expenses.DB.dll
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.Core\bin\Release\net8.0\Expenses.DB.pdb
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.Core\obj\Release\net8.0\Expenses.Core.csproj.AssemblyReference.cache
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.Core\obj\Release\net8.0\Expenses.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.Core\obj\Release\net8.0\Expenses.Core.AssemblyInfoInputs.cache
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.Core\obj\Release\net8.0\Expenses.Core.AssemblyInfo.cs
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.Core\obj\Release\net8.0\Expenses.Core.csproj.CoreCompileInputs.cache
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.Core\obj\Release\net8.0\Expenses.8663CD8B.Up2Date
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.Core\obj\Release\net8.0\Expenses.Core.dll
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.Core\obj\Release\net8.0\refint\Expenses.Core.dll
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.Core\obj\Release\net8.0\Expenses.Core.pdb
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.Core\obj\Release\net8.0\ref\Expenses.Core.dll

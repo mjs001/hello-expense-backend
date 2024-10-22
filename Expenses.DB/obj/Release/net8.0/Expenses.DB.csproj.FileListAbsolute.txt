@@ -1,0 +1,14 @@
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.DB\bin\Release\net8.0\Expenses.DB.deps.json
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.DB\bin\Release\net8.0\Expenses.DB.runtimeconfig.json
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.DB\bin\Release\net8.0\Expenses.DB.dll
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.DB\bin\Release\net8.0\Expenses.DB.pdb
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.DB\obj\Release\net8.0\Expenses.DB.csproj.AssemblyReference.cache
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.DB\obj\Release\net8.0\Expenses.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.DB\obj\Release\net8.0\Expenses.DB.AssemblyInfoInputs.cache
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.DB\obj\Release\net8.0\Expenses.DB.AssemblyInfo.cs
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.DB\obj\Release\net8.0\Expenses.DB.csproj.CoreCompileInputs.cache
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.DB\obj\Release\net8.0\Expenses.DB.dll
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.DB\obj\Release\net8.0\refint\Expenses.DB.dll
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.DB\obj\Release\net8.0\Expenses.DB.pdb
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.DB\obj\Release\net8.0\Expenses.DB.genruntimeconfig.cache
+C:\Users\Yello\repos\HelloExpense-backend\new\Expenses.DB\obj\Release\net8.0\ref\Expenses.DB.dll

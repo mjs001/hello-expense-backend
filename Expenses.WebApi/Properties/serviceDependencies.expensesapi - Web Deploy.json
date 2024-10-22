@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Web/sites/expensesapi/providers/Microsoft.ServiceLinker/linkers/ConnectionStringsDB_CONNECTION_STRING_2E504CFBE7",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/expenses-db-server/databases/ExpensesDB",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:DB_CONNECTION_STRING",
+      "dynamicId": null
+    }
+  }
+}
